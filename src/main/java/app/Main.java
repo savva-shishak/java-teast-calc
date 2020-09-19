@@ -2,7 +2,7 @@ package app;
 
 import app.exceptions.UnknownOperator;
 import app.traslators.JustTranslator;
-import app.traslators.row2.RomTranslator2;
+import app.traslators.rom2.RomTranslator2;
 import app.traslators.Translator;
 
 import java.util.Scanner;

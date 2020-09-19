@@ -1,4 +1,4 @@
-package app.traslators.row2;
+package app.traslators.rom2;
 
 /**
  * Римские разряды чисел.
