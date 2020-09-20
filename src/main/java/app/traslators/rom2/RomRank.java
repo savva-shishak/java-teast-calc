@@ -93,7 +93,7 @@ public enum RomRank {
      */
     public boolean inRank(String num) {
         return num.startsWith(numbers[0].rom) ||
-                num.startsWith(numbers[4].rom) ||
+                num.startsWith(numbers[5].rom) ||
                 num.startsWith(numbers[9].rom);
     }
 
